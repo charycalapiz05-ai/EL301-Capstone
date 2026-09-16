@@ -1,0 +1,12 @@
+{
+  "name": "el301-capstone-server",
+  "version": "1.0.0",
+  "description": "Centralized WebSocket server for EL301 IoT capstone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
